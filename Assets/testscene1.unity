@@ -3140,6 +3140,23 @@ PrefabInstance:
       objectReference: {fileID: 873315841}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9323ab625413014ba2036bf2a15f94c, type: 3}
+--- !u!1 &1395056360 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 907240706683188028, guid: a9323ab625413014ba2036bf2a15f94c, type: 3}
+  m_PrefabInstance: {fileID: 1395056359}
+  m_PrefabAsset: {fileID: 0}
+--- !u!122 &1395056361
+Halo:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395056360}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_Size: 4
 --- !u!1001 &1423247661
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4058,7 +4075,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-6346
+  m_Name: pb_Mesh21330
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
